@@ -1,0 +1,9 @@
+.nav__button {
+	text-transform: uppercase;
+	font-weight: bold;
+	color: grey;
+
+	&.active {
+		color: black;
+	}
+}

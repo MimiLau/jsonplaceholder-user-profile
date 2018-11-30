@@ -1,0 +1,30 @@
+p,
+button,
+.btn,
+ul,
+li,
+label,
+.form-group,
+.form-control {
+	font-size: 14px;
+}
+
+.app {
+	min-height: 100vh;
+	max-width: 500px;
+	color: $p-color;
+	margin: auto;
+	position: relative;
+	background-color: whitesmoke;
+}
+
+.title {
+	line-height: 37px;
+	font-family: titleFont;
+	font-size: 21px;
+}
+
+.border-b {
+	border-bottom: 1px solid black;
+	margin-bottom: 5px;
+}

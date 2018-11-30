@@ -1,0 +1,20 @@
+// color
+$primary: #3e080b;
+$secondary: #600c10;
+
+$bg-color: #f5f5f5;
+$p-color: black;
+
+$gold: #d6a738;
+$gold-light: #f4ce52;
+
+$btn-color: #500c0c;
+
+$border-color: #b50000;
+
+// height
+$height-logo: 19px;
+$height-header: 48px;
+$height-backArrow: 51px;
+$height-bottom: 38px;
+$height-contents: calc(100vh - #{$height-header + $height-bottom});

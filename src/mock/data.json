@@ -1,0 +1,513 @@
+{
+	"heritage": {
+		"coverImg": "img/1_section_bg_KV/1_1_Maison_Balmain_bg.jpg",
+		"title": "品牌传承",
+		"subtitle": "House heritage",
+		"chapter": "Chapter.1/5",
+		"timeline": [
+			{
+				"year": "1914年",
+				"content": "BALMAIN创始人Pierre Balmain先生于法国Saint-Jean-de-Maurienne阿尔卑斯山脚下的一个美丽小镇出生。",
+				"src": "img/4_rotate_clock/1914/1914.png"
+			},
+			{
+				"year": "1933年",
+				"content": "为了取悦母亲，Pierre Balmain先生带着对时尚的热情，进入了著名的法国美术学院Ecole des Beaux Arts学习建筑，并产生影响后世的感悟：“时装是移动的建筑（Dressmaking is the architecture of movement）。”",
+				"src": "img/4_rotate_clock/1933/1933.png"
+			},
+			{
+				"year": "1934年",
+				"content": "Pierre Balmain先生加入Edward Molyneux在巴黎的时装屋。",
+				"src": "img/4_rotate_clock/1934/1934.png"
+			},
+			{
+				"year": "1940年",
+				"content": "加入当时著名时装屋Lucien Lelong，并与Christian Dior和Huber de Givenchy共事。",
+				"src": "img/4_rotate_clock/1940/1940.png"
+			},
+			{
+				"year": "1945年",
+				"content": "Pierre Balmain先生创立BALMAIN品牌，第一家门店在巴黎Rue Francois 1 er 44号开业，发布的第一个系列便引起强烈反响，随后与Christian Dior、Balenciaga并称为三大时装巨头。",
+				"src": "img/4_rotate_clock/1945/1945.png"
+			},
+			{
+				"year": "1947年",
+				"content": "“绿风（Vent Vert）”香水问世，成为当时最畅销的香水之一。",
+				"src": "img/4_rotate_clock/1947/1947.png"
+			},
+			{
+				"year": "1949年",
+				"content": "备受赞誉的“漂亮女人（Jolie Madame）”香水问世。",
+				"src": "img/4_rotate_clock/1949/1949.png"
+			},
+			{
+				"year": "1952年",
+				"content": "推出“漂亮女人（Jolie Madame）”同名系列服装，成为50年代标志性廓形与经典风格。",
+				"src": "img/4_rotate_clock/1952/1952.png"
+			},
+			{
+				"year": "1954年",
+				"content": "发掘设计新秀Karl Largerfeld，并请其进入时装屋工作。",
+				"src": "img/4_rotate_clock/1954/1954.png"
+			},
+			{
+				"year": "1950年代 - 1960年代",
+				"content": "为凯瑟琳·赫本（Katherine Hepburn）、碧姬·芭铎（Brigitte Bardot）、费雯丽（Vivien Leigh）、泰国王后诗丽姬（Sirikit）、英国温莎公爵夫人等好莱坞一线女星和各国王公贵胄设计服装。",
+				"src": "img/4_rotate_clock/1950-1960/1950-1960.png"
+			},
+			{
+				"year": "1968年",
+				"content": "为新加坡航空机组设计制服，沿用至今，被奉为经典。",
+				"src": "img/4_rotate_clock/1968/1968.png"
+			},
+			{
+				"year": "1970年",
+				"content": "时装屋开设成衣系列。",
+				"src": "img/4_rotate_clock/1970/1970.png"
+			},
+			{
+				"year": "1993年",
+				"content": "Oscar De La Renta入主BALMAIN，重塑经典系列“Jolie Madame”的优雅美学。",
+				"src": "img/4_rotate_clock/1993/1993.png"
+			},
+			{
+				"year": "2005年",
+				"content": "Christophe Decarnin成为BALMAIN创意总监，为品牌带来全新的性感摇滚风格，在世纪之交建立了风靡全球的崭新形象。",
+				"src": "img/4_rotate_clock/2005/2005.png"
+			},
+			{
+				"year": "2011年",
+				"content": "Olivier Rousteing担任品牌设计总监，延续Christophe Decarnin的风格的同时，将自己的特色和BALMAIN的经典注入其中。",
+				"src": "img/4_rotate_clock/2011/2011.png"
+			},
+			{
+				"year": "2015年",
+				"content": "Balmain x H&M合作系列发布，并大获成功。",
+				"src": "img/4_rotate_clock/2015/2015.png"
+			},
+			{
+				"year": "2016年",
+				"content": "发布Balmain童装系列",
+				"src": "img/4_rotate_clock/2016/2016.png"
+			},
+			{
+				"year": "2016年",
+				"content": "发布Balmain童装系列",
+				"src": "img/4_rotate_clock/2016/2016.png"
+			}
+		]
+	},
+	"oliver": {
+		"coverImg": "img/1_section_bg_KV/2_1_designer.jpg",
+		"title": "巴尔曼创意总监",
+		"subtitle": "Olivier",
+		"chapter": "Chapter.2/5",
+		"content": [
+			"img/5_designer_content/designer_2009_bg.jpg",
+			"img/5_designer_content/olivier-working.png",
+			"img/5_designer_content/kendall_olivier.png"
+		]
+	},
+	"stores":  {
+		"coverImg": "img/1_section_bg_KV/3_1_store.jpg",
+		"title": "探索精品店",
+		"subtitle": "中国地区・其他地区",
+		"chapter": "Chapter.3/5",
+		"district": {
+			"china": [
+				{
+					"name": "北京三里屯店",
+					"address": "朝阳区三里屯路11号院太古里三里屯北区N2-17&27店铺",
+					"tel": "+86 10 6417 7513",
+					"src": "img/6_store_locations/china_region/1_beijing.jpg"
+				},
+				{
+					"name": "北京SKP店",
+					"address": "朝阳区建国路87号SKP商场D4015店铺",
+					"tel": "+86 10 6507 9751",
+					"src": "img/6_store_locations/china_region/Beijing_SKP.jpg"
+				},
+				{
+					"name": "上海恒隆店",
+					"address": "静安区南京西路1266号恒隆广场B128店铺",
+					"tel": "+86 21 6241 1726",
+					"src": "img/6_store_locations/china_region/2_SH.jpg"
+				},
+				{
+					"name": "上海国金店",
+					"address": "浦东新区世纪大道8号国金中心商场L2-11店铺",
+					"tel": "+86 21 6882 3998",
+					"src": "img/6_store_locations/china_region/6_shanghai.jpg"
+				},
+				{
+					"name": "杭州杭大店",
+					"address": "杭州市环城北路230号杭州大厦C座一楼",
+					"tel": "+86 571 8702 0982",
+					"src": "img/6_store_locations/china_region/HZ_tower.jpg"
+				},
+				{
+					"name": "香港置地广场店",
+					"address": "中环置地广场中庭一层116号店铺",
+					"tel": "+852 3100 0475",
+					"src": "img/6_store_locations/china_region/landmark.jpg"
+				},
+				{
+					"name": "香港海港城店",
+					"address": "九龙尖沙咀海港城港威商场一层G210店",
+					"tel": "+852 3102 9184",
+					"src": "img/6_store_locations/china_region/4_1_hk_tst.jpg"
+				},
+				{
+					"name": "香港太古广场店",
+					"address": "金钟皇后大道88号太古广场二座223店铺",
+					"tel": "+852 2116 4599",
+					"src": "img/6_store_locations/china_region/4_2_hk_admiralty.jpg"
+				},
+				{
+					"name": "澳门新濠天地店",
+					"address": "路氹城金光大道2号新濠天地一层1019店铺",
+					"tel": "+853 2885 2505",
+					"src": "img/6_store_locations/china_region/5_macau.jpg"
+				}
+			],
+			"other": [
+				{
+					"name": "巴黎旗舰店",
+					"address": "44, rue Francois 1er, 75008 - Paris",
+					"tel": "+33 1 47 20 57 58",
+					"src": "img/6_store_locations/other_region/1_paris.jpg"
+				},
+				{
+					"name": "新加坡店",
+					"address": "#B1-11, The Shoppes at Marina Bay Sands, 2 Bayfront Avenue, 018972 – Singapore",
+					"tel": "+65 6688 7160",
+					"src": "img/6_store_locations/other_region/singapore.jpg"
+				},
+				{
+					"name": "米兰店",
+					"address": "Via Montenapoleone 27D 20121 Milano",
+					"tel": "+39 0236692430",
+					"src": "img/6_store_locations/other_region/Milan.jpg"
+				},
+				{
+					"name": "伦敦店",
+					"address": "69 South Audley Stresst, W1K 2QZ - London",
+					"tel": "+44 20 7491 8585",
+					"src": "img/6_store_locations/other_region/2_ldn.jpg"
+				},
+				{
+					"name": "纽约店",
+					"address": "100 Wooster Street, 10012 – New York",
+					"tel": "+1 212 966 4200",
+					"src": "img/6_store_locations/other_region/3_ny.jpg"
+				},
+				{
+					"name": "洛杉矶店",
+					"address": "8421 Melrose Place, West Hollywood CA 90069 – Los Angeles",
+					"tel": "+1 323 230 6364",
+					"src": "img/6_store_locations/other_region/Los_Angeles.jpg"
+				},
+				{
+					"name": "迈阿密巴伯港店",
+					"address": "9700 Collins Avenue Suite #217 FL 33154 – Bal Harbour",
+					"tel": "+1 305 397 8152",
+					"src": "img/6_store_locations/other_region/Miami.jpg"
+				},
+				{
+					"name": "迪拜店",
+					"address": "BurJuman Centre, Bur Dubai, Sheikh Zayed Street - Dubai",
+					"tel": "+971 4 351 2669",
+					"src": "img/6_store_locations/other_region/4_dubai.jpg"
+				},
+				{
+					"name": "东京银座店",
+					"address": "7-6-16, Ginza, Chuo-Ku 104-0061 - Tokyo",
+					"tel": "+81 3 6228 5212",
+					"src": "img/6_store_locations/other_region/5_tokyo_ginza.jpg"
+				},
+				{
+					"name": "首尔乐天店",
+					"address": "Lotte Department Store 4F, 130 Namdaemoon-ro 2-ga, 100-092 Seoul",
+					"tel": "+82 2 2118 6136",
+					"src": "img/6_store_locations/other_region/6_korea_lotte.jpg"
+				},
+				{
+					"name": "首尔现代店",
+					"address": "Trade Center Branch 3F, store 159-7, Samsung – Dong, Gangnam-Gu, Seoul",
+					"tel": "+82 2 3467 8736",
+					"src": "img/6_store_locations/other_region/7_korea_trade_center.jpg"
+				},
+				{
+					"name": "首尔Galleria店",
+					"address": "East 3F, Apgujeong-Dong, Gangnam-Gu, Seoul",
+					"tel": "+82 2 6905 3585",
+					"src": "img/6_store_locations/other_region/8_korea_galleria.jpg"
+				}
+			]
+		}
+	},
+	"celebrity": {
+		"coverImg": "img/1_section_bg_KV/4_1_People_who_love_Balmain.jpg",
+		"title": "巴尔曼军团",
+		"subtitle": "感受巴尔曼的时尚风采",
+		"chapter": "Chapter.4/5",
+		"content": [
+			{
+				"cat": "歌手、演员",
+				"name": "吴亦凡",
+				"src": [
+					"img/7_celebrities/01_Kris_Wu/1.png",
+					"img/7_celebrities/01_Kris_Wu/2.png",
+					"img/7_celebrities/01_Kris_Wu/3.png"
+				]
+			},
+			{
+				"cat": "歌手、演员",
+				"name": "鹿晗",
+				"src": [
+					"img/7_celebrities/02_Lu_Han/1.png",
+					"img/7_celebrities/02_Lu_Han/2.png"
+				]
+			},
+			{
+				"cat": "模特、演员",
+				"name": "杨颖",
+				"src": [
+					"img/7_celebrities/03_Angelababy/1.png",
+					"img/7_celebrities/03_Angelababy/2.png"
+				]
+			},
+			{
+				"cat": "演员",
+				"name": "杨幂",
+				"src": [
+					"img/7_celebrities/04_Mini_Yang/1.png",
+					"img/7_celebrities/04_Mini_Yang/2.png"
+				]
+			},
+			{
+				"cat": "演员",
+				"name": "刘亦菲",
+				"src": [
+					"img/7_celebrities/05_Crystal_Liu/1.png",
+					"img/7_celebrities/05_Crystal_Liu/2.png"
+				]
+			},
+			{
+				"cat": "演员、歌手",
+				"name": "戚薇",
+				"src": [
+					"img/7_celebrities/06_Stephanie_Qi/1.png",
+					"img/7_celebrities/06_Stephanie_Qi/2.png",
+					"img/7_celebrities/06_Stephanie_Qi/3.png"
+				]
+			},
+			{
+				"cat": "歌手、演员",
+				"name": "王俊凯",
+				"src": [
+					"img/7_celebrities/07_Karry_Wang/1.png"
+				]
+			},
+			{
+				"cat": "歌手、演员",
+				"name": "易烊千玺",
+				"src": [
+					"img/7_celebrities/08_Jackson_Yi/1.png",
+					"img/7_celebrities/08_Jackson_Yi/2.png"
+				]
+			},
+			{
+				"cat": "歌手、演员",
+				"name": "王源",
+				"src": [
+					"img/7_celebrities/09_Roy_Wang/1.png"
+				]
+			},
+			{
+				"cat": "歌手、演员",
+				"name": "许魏洲",
+				"src": [
+					"img/7_celebrities/10_Timmy_Xu/1.png",
+					"img/7_celebrities/10_Timmy_Xu/2.png",
+					"img/7_celebrities/10_Timmy_Xu/3.png",
+					"img/7_celebrities/10_Timmy_Xu/4.png",
+					"img/7_celebrities/10_Timmy_Xu/5.png",
+					"img/7_celebrities/10_Timmy_Xu/6.png"
+				]
+			},
+			{
+				"cat": "演员",
+				"name": "张雨绮",
+				"src": [
+					"img/7_celebrities/11_Yuqi_Zhang/1.png"
+				]
+			},
+			{
+				"cat": "歌手、演员",
+				"name": "张艺兴",
+				"src": [
+					"img/7_celebrities/12_Lay_Zhang/1.png",
+					"img/7_celebrities/12_Lay_Zhang/2.png",
+					"img/7_celebrities/12_Lay_Zhang/3.png",
+					"img/7_celebrities/12_Lay_Zhang/4.png",
+					"img/7_celebrities/12_Lay_Zhang/5.png"
+				]
+			},
+			{
+				"cat": "演员",
+				"name": "赵薇",
+				"src": [
+					"img/7_celebrities/13_Vicki_Zhao/1.png"
+				]
+			},
+			{
+				"cat": "歌手、演员",
+				"name": "宋茜",
+				"src": [
+					"img/7_celebrities/14_Victoria_Song/1.png",
+					"img/7_celebrities/14_Victoria_Song/2.png"
+				]
+			},
+			{
+				"cat": "演员",
+				"name": "佘诗曼",
+				"src": [
+					"img/7_celebrities/15_Charmaine_Sheh/1.png"
+				]
+			},
+			{
+				"cat": "歌手、演员",
+				"name": "陈伟霆",
+				"src": [
+					"img/7_celebrities/16_Wilian_Chan/1.png"
+				]
+			},
+			{
+				"cat": "演员",
+				"name": "舒淇",
+				"src": [
+					"img/7_celebrities/17_Shu_Qi/1.png",
+					"img/7_celebrities/17_Shu_Qi/2.png",
+					"img/7_celebrities/17_Shu_Qi/3.png"
+				]
+			},
+			{
+				"cat": "演员",
+				"name": "王君馨",
+				"src": [
+					"img/7_celebrities/18_Grace_Wong/1.png",
+					"img/7_celebrities/18_Grace_Wong/2.png"
+				]
+			},
+			{
+				"cat": "模特",
+				"name": "Kōki",
+				"src": [
+					"img/7_celebrities/19_Koki/1.png"
+				]
+			},
+			{
+				"cat": "歌手、演员",
+				"name": "Katayose Ryota",
+				"nameChi": "片寄凉太",
+				"src": [
+					"img/7_celebrities/20_Katayose_Ryota/1.png"
+				]
+			},
+			{
+				"cat": "唱作歌手",
+				"name": "Beyonce",
+				"nameChi": "碧昂斯",
+				"src": [
+					"img/7_celebrities/21_beyonce/1.png",
+					"img/7_celebrities/21_beyonce/2.png",
+					"img/7_celebrities/21_beyonce/3.png",
+					"img/7_celebrities/21_beyonce/4.png",
+					"img/7_celebrities/21_beyonce/5.png",
+					"img/7_celebrities/21_beyonce/6.png",
+					"img/7_celebrities/21_beyonce/7.png",
+					"img/7_celebrities/21_beyonce/8.png",
+					"img/7_celebrities/21_beyonce/9.png"
+				]
+			},
+			{
+				"cat": "法国第一夫人",
+				"name": "Brigitte Macron",
+				"nameChi": "布丽吉特·马克龙",
+				"src": [
+					"img/7_celebrities/22_Brigitte_Macron/1.png",
+					"img/7_celebrities/22_Brigitte_Macron/2.png",
+					"img/7_celebrities/22_Brigitte_Macron/3.png"
+				]
+			},
+			{
+				"cat": "模特",
+				"name": "Gigi hadid",
+				"nameChi": "吉吉·哈迪德",
+				"src": [
+					"img/7_celebrities/23_gigi_hadid/1.png"
+				]
+			},
+			{
+				"cat": "模特",
+				"name": "Cara Delevingne",
+				"nameChi": "卡拉·迪瓦伊",
+				"src": [
+					"img/7_celebrities/24_Cara_Delevingne/1.png"
+				]
+			},
+			{
+				"cat": "演员",
+				"name": "Cate Blanchett",
+				"nameChi": "凯特·布兰切特",
+				"src": [
+					"img/7_celebrities/25_Cate_Blanchett/1.png"
+				]
+			},
+			{
+				"cat": "演员",
+				"name": "Leighton Meester",
+				"nameChi": "莱顿·梅斯特",
+				"src": [
+					"img/7_celebrities/26_Leighton_Meester/1.png"
+				]
+			},
+			{
+				"cat": "演员",
+				"name": "Scarlett johansson",
+				"nameChi": "斯嘉丽·约翰逊",
+				"src": [
+					"img/7_celebrities/27_scarlett_johansson/1.png"
+				]
+			},
+			{
+				"cat": "唱作歌手",
+				"name": "Taylor swift",
+				"nameChi": "泰勒·斯威夫特",
+				"src": [
+					"img/7_celebrities/28_taylor_swift/1.png"
+				]
+			},
+			{
+				"cat": "唱作歌手",
+				"name": "Jennifer Lopez",
+				"nameChi": "珍妮弗·洛佩兹",
+				"src": [
+					"img/7_celebrities/29_Jennifer_Lopez/1.png",
+					"img/7_celebrities/29_Jennifer_Lopez/2.png"
+				]
+			}
+		]
+	},
+	"fashion": {
+		"coverImg": "img/1_section_bg_KV/5_1_Accessories.jpg",
+		"title": "秀场直击",
+		"subtitle": "2018秋冬系列抢先看",
+		"chapter": "Chapter.5/5",
+		"content": {
+			"womenPath": "img/8_fashion_show_collection_2018/women_collection",
+			"menPath": "img/8_fashion_show_collection_2018/men_collection"
+		}
+	}
+}
